@@ -34,7 +34,7 @@ You can launch XY Camera directly from the Lock Screen, Control Center, or the i
 ## Frequently Asked Questions (FAQ)
 
 **Q: Why is "Burn in LUT" or "Burn in look" dimmed when ProRes is selected?**
-Apple ProRes recording preserves the clean sensor Log/color stream directly via hardware encoding. While shooting ProRes, your chosen LUT or Retro look appears live in the viewfinder, and you can export a graded copy anytime from the in-app **Media** library.
+Burn-in works with HEVC (and H.264 on iPhones without Apple Log). A ProRes take is kept clean, in Log when you shoot Log: your chosen LUT or Retro look shows live in the viewfinder only, and you can export a graded copy anytime from the in-app **Media** library.
 
 **Q: Why are Retro looks unavailable at 60 fps or 120 fps?**
 Retro looks emulate classic frame cadences (such as 18 fps for 8mm Film, 24 fps for Cinema Film, and 15 fps for Flip Phone) and operate at frame rates up to **30 fps**. Switch your frame rate to 24 fps, 25 fps, or 30 fps to enable the Retro tab.
