@@ -2,7 +2,7 @@
 
 **Effective Date:** October 26, 2026<br>
 **Last Updated:** October 26, 2026<br>
-**Developer:** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
+**Developer:** Yang Song ([rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com))
 
 ---
 
@@ -38,14 +38,14 @@ XY Camera does not collect personal information from anyone, including children 
 ## 6. Contact Us
 
 If you have any questions about this Privacy Policy, please contact:<br>
-**Yang Song** — [songer522@gmail.com](mailto:songer522@gmail.com)
+**Yang Song** — [rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com)
 
 ---
 
 ## 隐私政策（简体中文）
 
 **生效日期：** 2026年10月26日<br>
-**开发者：** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
+**开发者：** Yang Song ([rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com))
 
 **祥云相机**（海外版名称：**XY Camera**）严格遵循**纯本地隐私保护原则**：
 
@@ -56,14 +56,14 @@ If you have any questions about this Privacy Policy, please contact:<br>
    - **使用期间的位置信息（可选）：** 仅当您在应用“设置”中主动开启“记录位置信息”开关时才会请求授权。开启后，位置坐标仅写入您设备本地生成的照片（EXIF）或视频（QuickTime）文件元数据中，绝不会上传或写入任何日志，也不会在后台获取位置。
 3. **应用内购买（自愿打赏）：** “设置 › 买杯咖啡”中的一次性打赏由 Apple 官方 **StoreKit 2** 框架处理，开发者无法获取您的 Apple ID 或任何支付信息。应用启动时也会通过 StoreKit 确认安装来源（App Store 或 TestFlight），不会向开发者发送任何个人信息。
 
-如有任何疑问，请联系：[songer522@gmail.com](mailto:songer522@gmail.com)。
+如有任何疑问，请联系：[rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com)。
 
 ---
 
 ## 隱私權政策（繁體中文）
 
 **生效日期：** 2026年10月26日<br>
-**開發者：** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
+**開發者：** Yang Song ([rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com))
 
 **祥雲相機**（國際版名稱：**XY Camera**）嚴格遵循**純本機隱私保護原則**：
 
@@ -74,7 +74,7 @@ If you have any questions about this Privacy Policy, please contact:<br>
    - **使用期間的位置資訊（選用）：** 僅當您在應用「設定」中主動開啟「記錄位置資訊」時才會請求授權。開啟後，GPS 座標僅寫入儲存在您裝置上的照片或影片檔案中繼資料，絕不會上傳或記錄於任何日誌。
 3. **App 內購買（自願打賞）：** 「設定 › 買杯咖啡」中的一次性打賞完全由 Apple 官方 **StoreKit 2** 處理，開發者不會取得您的 Apple ID 或付款資訊。App 啟動時也會透過 StoreKit 確認安裝來源（App Store 或 TestFlight），不會向開發者傳送任何個人資料。
 
-如有任何問題，請聯絡：[songer522@gmail.com](mailto:songer522@gmail.com)。
+如有任何問題，請聯絡：[rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com)。
 
 ---
 

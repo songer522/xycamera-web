@@ -3,7 +3,7 @@
 Need help with **XY Camera** (**祥云相机** / **祥雲相機**)? Find answers to common questions below or reach out directly.
 
 - **Developer:** Yang Song
-- **Email Support:** [songer522@gmail.com](mailto:songer522@gmail.com)
+- **Email Support:** [rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com)
 - **Response Time:** Within 1–2 business days
 
 ---
@@ -52,7 +52,7 @@ Nothing—every camera feature, LUT tool, Retro look, and Dual mode is included 
 如果您在使用 **祥云相机**（**祥雲相機** / **XY Camera**）时遇到任何问题或有功能建议，欢迎随时联系开发者：
 
 - **开发者：** Yang Song
-- **联系邮箱：** [songer522@gmail.com](mailto:songer522@gmail.com)
+- **联系邮箱：** [rewind.feedback@gmail.com](mailto:rewind.feedback@gmail.com)
 
 ### 常见功能说明
 1. **专业模式与色彩（LUT & 复古风格）：** 支持 Apple Log / Apple Log 2、HLG 与 SDR 录制，内置 10 款电影级 LUT 并支持导入 `.cube` 3D LUT 文件；视频模式（最高 30 fps）提供 **家用摄像机 (Camcorder)**、**8mm 胶片**、**CCD**、**电影胶片**、**翻盖手机**、**拍立得 (Instant)** 与 **磁带 (Tape)** 7 款复古拟真风格（支持强度调节与日期水印），照片模式提供 10 款专属色彩滤镜。
