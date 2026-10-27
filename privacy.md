@@ -1,7 +1,7 @@
 # Privacy Policy — XY Camera (祥云相机 / 祥雲相機)
 
-**Effective Date:** October 26, 2026  
-**Last Updated:** October 26, 2026  
+**Effective Date:** October 26, 2026<br>
+**Last Updated:** October 26, 2026<br>
 **Developer:** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
 
 ---
@@ -37,14 +37,14 @@ XY Camera does not collect personal information from anyone, including children 
 
 ## 6. Contact Us
 
-If you have any questions about this Privacy Policy, please contact:  
+If you have any questions about this Privacy Policy, please contact:<br>
 **Yang Song** — [songer522@gmail.com](mailto:songer522@gmail.com)
 
 ---
 
 ## 隐私政策（简体中文）
 
-**生效日期：** 2026年10月26日  
+**生效日期：** 2026年10月26日<br>
 **开发者：** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
 
 **祥云相机**（海外版名称：**XY Camera**）严格遵循**纯本地隐私保护原则**：
@@ -62,7 +62,7 @@ If you have any questions about this Privacy Policy, please contact:
 
 ## 隱私權政策（繁體中文）
 
-**生效日期：** 2026年10月26日  
+**生效日期：** 2026年10月26日<br>
 **開發者：** Yang Song ([songer522@gmail.com](mailto:songer522@gmail.com))
 
 **祥雲相機**（國際版名稱：**XY Camera**）嚴格遵循**純本機隱私保護原則**：
